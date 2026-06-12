@@ -93,7 +93,6 @@ presentation.pdf
 
 datasets/
 code/
-figures/
 ```
 
 ---
