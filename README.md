@@ -108,8 +108,30 @@ figures/
 
 ---
 
-## Author
+## Authors and Contributions
 
-**Rahul Ganguly**
+This project was completed as a group academic project under faculty supervision.
 
-M.Stat., Indian Statistical Institute, Kolkata
+### Authors
+- Rahul Ganguly  
+- [Other authors as listed in the project report]
+
+---
+
+### Individual Contributions (Rahul Ganguly)
+
+Rahul Ganguly contributed to the following components of the project:
+
+- Data preprocessing and structuring of environmental noise datasets  
+- Exploratory data analysis and visualization of spatial-temporal patterns  
+- Implementation of clustering methods for identifying noise pattern groups  
+- Application and interpretation of Functional Principal Component Analysis (FPCA)  
+- Computation and analysis of spatial statistics including Moran’s I and Getis-Ord measures  
+- Generation of key plots, maps, and statistical summaries used in the report  
+- Interpretation of hotspot detection results and validation of findings  
+- Preparation of analytical sections of the project report  
+
+---
+
+### Project Note
+This work was conducted collaboratively as part of an academic group project. All authors contributed to different stages including data collection, modeling, spatial analysis, and report preparation under faculty guidance.
